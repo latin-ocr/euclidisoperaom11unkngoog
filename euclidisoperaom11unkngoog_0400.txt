@@ -1,0 +1,43 @@
+areanum. 389
+
+quoniam ΔΕ = ΒΖ, et eadem aequiangula sunt, et
+parallelogrammorum aequalium et aequiangulorum
+latera angulos aequales comprehendentia in contraria
+proportione aunt [VI, 14]‚ erit ΑΒεΓΔ = FE2A23
+quod erat demonstrandum.
+
+Ad libr. {zo-prop. 29.
+
+Lemma ad prop. XXIX.
+
+Datis duobus numeris et reeta oportet efficere, ut
+sit, ut numerus ad numerum, ita quadratum reatae
+ad quadratum aliua alieuius reatae.
+
+Sint duo numeri dati A, B, reeta
+autem Γ; et oportet efficere, quod
+propositum est. fiat enim A:B=F:A
+[prop. VI corolll, et rectarum Γ, Δ
+
+Λ ι--ι
+
+Β ι---ι
+
+¹ mediaproportionalissumaturE[VI‚13].
+iam quoniam est A :B = Γ : A,
+r:A-= ΓῖτΕ2 [V def. 9]‚ erit A:B=r²:n2.
+
+ll.
+Ad libr. X prop. 31.
+
+Lemma ad prop. XXXI.
+
+si duae rectae in ratione aliqua sunt, erit ut reeta
+ad rectam, ita rectangulum duarum rectarum ad qua-
+dratum minimae. ⁵
+Duae igitur rectae A Β, ΒΓ in¹ ratione aliqua sint.
+
+dieo, esse AB ε ΒΓ -- ΑΒ >< ΒΓ : W. describatur
+
+ 
+
